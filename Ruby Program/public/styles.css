@@ -1,0 +1,20 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ff0808;
+  }
+  
+  h1 {
+    text-align: center;
+    color: blue;
+  }
+  
+  h2 {
+    color: green;
+  }
+  
+  p {
+    color: black;
+  }
+  
