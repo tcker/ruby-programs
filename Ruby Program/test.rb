@@ -1,11 +1,11 @@
-class Nigger
+class Hello
     def name
         "Test"
     end
 end
 
-nigga_instance = Nigger.new
-puts nigga_instance.name    
+hello_instance = Hello.new
+puts hello_instance.name    
 
 puts "Hello World"; puts "I love drinking coffee\n\n"
 
